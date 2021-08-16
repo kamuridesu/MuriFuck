@@ -1,3 +1,7 @@
+# this is a simple brainfuck code generator
+# converts any string to brainfuck code with output.
+
+
 def generate(string):
 	string = [ord(x) for x in string]
 	increase = ""

@@ -1,6 +1,7 @@
 # MuriFuck
 
 A simple Brainfuck interpreter written in Python.
+
 Usage:
 Brainfuck.parser("your code here")
 

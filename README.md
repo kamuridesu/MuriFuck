@@ -1,9 +1,7 @@
 # MuriFuck
 
-A simple Brainfuck interpreter written in Python.
+A simple Brainfuck interpreter written in Python, Julia, Rust.
 
-Usage:
-Brainfuck().parser("your code here")
 
 The tape has 30 cells and each cell can hold an unsigned int from 0 to 255. 
 
